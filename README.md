@@ -4,7 +4,7 @@ A simple single-page CV built with HTML and CSS as part of the roadmap.sh fronte
 
 ## Project URL
 
-Live site: https://YOUR_USERNAME.github.io/YOUR_REPOSITORY_NAME/
+Live site: https://github.com/Wahab3745/Roadmap.sh_Practice.git
 
 ## How to Run
 
