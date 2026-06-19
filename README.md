@@ -6,7 +6,6 @@ A simple single-page CV built with HTML and CSS as part of the roadmap.sh fronte
 
 Live site: https://wahab3745.github.io/Roadmap.sh_Practice/
 
-
 ## How to Run
 
 1. Download or clone this repository.
